@@ -1,0 +1,14 @@
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\bin\Debug\net9.0\GameOverDemo.exe
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\bin\Debug\net9.0\GameOverDemo.deps.json
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\bin\Debug\net9.0\GameOverDemo.runtimeconfig.json
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\bin\Debug\net9.0\GameOverDemo.dll
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\bin\Debug\net9.0\GameOverDemo.pdb
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\obj\Debug\net9.0\GameOverDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\obj\Debug\net9.0\GameOverDemo.AssemblyInfoInputs.cache
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\obj\Debug\net9.0\GameOverDemo.AssemblyInfo.cs
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\obj\Debug\net9.0\GameOverDemo.csproj.CoreCompileInputs.cache
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\obj\Debug\net9.0\GameOverDemo.dll
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\obj\Debug\net9.0\refint\GameOverDemo.dll
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\obj\Debug\net9.0\GameOverDemo.pdb
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\obj\Debug\net9.0\GameOverDemo.genruntimeconfig.cache
+C:\A.TugasSekolah\SMK\Kelas 11\PGIM\GameOverDemo\obj\Debug\net9.0\ref\GameOverDemo.dll
